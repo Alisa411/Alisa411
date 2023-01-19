@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**Alisa411/Alisa411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 #About me ✨✨✨
 
 - 🔭 I’m currently working on ***X-linked intellectual disability*** disease modeling based on IPSc
