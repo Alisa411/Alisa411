@@ -1,4 +1,4 @@
-#About me ✨✨✨
+# About me ✨✨✨
 
 - 🔭 I’m currently working on ***X-linked intellectual disability*** disease modeling based on IPSc
 - 🌱 I’m currently learning **bioinformatics**
