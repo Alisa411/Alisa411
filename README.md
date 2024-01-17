@@ -1,10 +1,3 @@
-# About me ✨✨✨
+# About me 
 
-- 🔭 I’m currently working on ***X-linked intellectual disability*** disease modeling based on IPSc
-- 🌱 I’m currently learning **bioinformatics**
-- 👯 I’m looking to collaborate with other students interested in bioinformatics
-- 🤔 I’m looking for help with python and bash
-- 💬 Ask me about 
-> what I like the most. And I will answer - sleeeeep
-- 📫 How to reach me: afedorenko00@gmail.com
-- ⚡ Fun fact: I'm **allergic** on cats (not fun fact but it'll protect me)
+Highly organized and motivated Skoltech student seeking an entry-level position as an bioinformatician. Proficient in human stem cell culture, molecular and cell biology. Interested in bioinformatics in the field of human genome, transcriptome and single-cell data analysis. 
